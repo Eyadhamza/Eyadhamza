@@ -18,7 +18,7 @@
 <a href="https://twitter.com/eyadhamza8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyadhamza8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eyad-hamza-69b8791b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyad-hamza-69b8791b4" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/eyad.hamza.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/eyad.hamza.1/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/eyad hamza - π's space" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyad hamza - π's space" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC3Xs2OtH-4lLIGJj15RwbGQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyad hamza - π's space" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
