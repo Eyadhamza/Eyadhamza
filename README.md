@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/eyadhamza8" target="blank"><img src="https://img.shields.io/twitter/follow/eyadhamza8?logo=twitter&style=for-the-badge" alt="eyadhamza8" /></a> </p>
 
-- 🔭 I’m currently working on **Minder**
+- 🔭 I’m currently working at **Zeal**
 
 - 🌱 I’m currently learning **Backend Development & Software Development**
 
